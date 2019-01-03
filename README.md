@@ -1,18 +1,18 @@
 # Triathlon #
 
-### But du projet ###
+## But du projet ##
 Avec cette application, un directeur ou bien un manageur pourrait créer/organiser un triathlon. Ce projet permettrait de gérer les inscription des participant, les caractéristiques des épreuves et les résultats et ainsi faire un classement, afin de mieux expliquer le cas d'utilisation en joins ci-dessous.
 
-###### Cas d'utilisation ######
+### Cas d'utilisation ####
 * * * 
 ![Cas d'utilisation](https://github.com/vappy2/Triathlon/blob/master/image/UML.png)
 
 * * *
-###### Language utilisé ######
+#### Language utilisé ####
 > C#
 * * * 
 
-### Strucure du projet ###
+## Strucure du projet ##
 
 Ce projet est constitué de 4 classes : 
 
