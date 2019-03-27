@@ -20,6 +20,9 @@ Ce projet est constitué de 4 classes :
 |Résultat|Permet de stockés les résultats|
 |Tri| Premet d'établir le classement du Triathlon|
 
+###### Diagramme de classe ######
+![DDC](https://github.com/vappy2/Triathlon/blob/master/image/DDC img.png)
+
 * * *
 #### Language utilisé ####
 > C#
