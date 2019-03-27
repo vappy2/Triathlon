@@ -8,9 +8,6 @@ Avec cette application, un directeur ou bien un manageur pourrait créer/organis
 ![Cas d'utilisation](https://github.com/vappy2/Triathlon/blob/master/image/UML.png)
 
 * * *
-#### Language utilisé ####
-> C#
-* * * 
 
 ## Strucure du projet ##
 
@@ -23,4 +20,10 @@ Ce projet est constitué de 4 classes :
 |Résultat|Permet de stockés les résultats|
 |Tri| Premet d'établir le classement du Triathlon|
 
-**Ajouter le diagramme de classe**
+* * *
+#### Language utilisé ####
+> C#
+* * * 
+
+#### Outils utilisés ####
+> Visual Studio 2010
