@@ -21,7 +21,7 @@ Ce projet est constitué de 4 classes :
 |Tri| Premet d'établir le classement du Triathlon|
 
 ###### Diagramme de classe ######
-![DDC]()
+![DDC](https://github.com/vappy2/Triathlon/blob/master/image/DDC%20img.PNG)
 
 * * *
 #### Language utilisé ####
